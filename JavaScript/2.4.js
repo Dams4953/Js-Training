@@ -1,7 +1,9 @@
-for (let n = 1; n < 100; n++){
-    if (n % 2 === 0) {
-        console.log(n / 2);
+let i = 0;
+
+for ( i = 1; i < 100; i++){
+    if (i % 2 === 0) {
+        console.log(i / 2);
     } else {
-        console.log(n * 3);
+        console.log(i * 3);
     }
 }

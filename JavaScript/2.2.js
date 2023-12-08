@@ -1,6 +1,12 @@
-let min = prompt("saisissez un chiffre");
-let max = prompt("saisissez un autre chiffre");
-let current = prompt("saisissez un dernier chiffre");
+let min;
+let max;
+let current;
+
+
+
+min = prompt("saisissez un chiffre");
+max = prompt("saisissez un autre chiffre");
+current = prompt("saisissez un dernier chiffre");
 
     if ((current > min) && ( current < max)){
             console.log("ok");
