@@ -1,4 +1,4 @@
-# Algo-js
+# Js Entrainement
 
 Ce repository est dédié à mon entraînement en JavaScript dans le cadre de ma formation à BeCode. Il propose une série d'exercices pour m'aider à renforcer mes compétences et à approfondir ma compréhension de ce langage de programmation.
 
